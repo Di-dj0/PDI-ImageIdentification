@@ -3,6 +3,7 @@
 /image_database
 /Imagens\ Originais
 /images_png
+/ground_truth
 
 # auxiliar code not used in the final project
 image_converter.py
