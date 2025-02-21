@@ -1,9 +1,11 @@
 # list of dirs created to use the datasets
-/augmented_dataset
-/image_database
-/Imagens\ Originais
-/images_png
-/ground_truth
+# /augmented_dataset
+# /image_database
+# /Imagens\ Originais
+# /images_png
+# /ground_truth
+# /bounding_boxes
+/*
 
 # auxiliar code not used in the final project
 image_converter.py
