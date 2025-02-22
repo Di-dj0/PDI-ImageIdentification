@@ -2,8 +2,8 @@ from PIL import Image
 import os
 
 # Directories
-input_dir = 'Imagens Originais'
-output_dir = 'images_png'
+input_dir = 'Conversão'
+output_dir = 'Conversão'
 
 # Create the directory for output
 os.makedirs(output_dir, exist_ok=True)

@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>1220269</id>
+      <name>agoravai</name>
+      <size>100</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-02-22 18:37:11.142263+00:00</created>
+      <updated>2025-02-22 18:46:28.138542+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>99</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>2155128</id>
+          <start>0</start>
+          <stop>99</stop>
+          <url>https://app.cvat.ai/api/jobs/2152691</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>yuri38</username>
+        <email>yuri3.zdebski@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>0</name>
+          <color>#7d050a</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>1</name>
+          <color>#d12345</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>2</name>
+          <color>#350dea</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>3</name>
+          <color>#479ffe</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>4</name>
+          <color>#4a649f</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2025-02-22 19:22:49.313318+00:00</dumped>
+  </meta>
+  <image id="0" name="0-01-V1-B.png" width="600" height="600">
+    <box label="0" source="manual" occluded="0" xtl="246.76" ytl="253.96" xbr="360.43" ybr="371.22" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="0-01-V1-W.png" width="600" height="600">
+    <box label="0" source="manual" occluded="0" xtl="239.57" ytl="243.17" xbr="347.48" ybr="353.96" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="0-01-V2-B.png" width="600" height="600">
+    <box label="0" source="manual" occluded="0" xtl="247.48" ytl="253.24" xbr="353.96" ybr="363.31" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="0-01-V2-W.png" width="600" height="600">
+    <box label="0" source="manual" occluded="0" xtl="246.04" ytl="245.32" xbr="358.27" ybr="363.31" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="0-02-V1-B.png" width="600" height="600">
+    <box label="0" source="manual" occluded="0" xtl="248.20" ytl="248.92" xbr="344.60" ybr="358.99" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="0-02-V1-W.png" width="600" height="600">
+    <box label="0" source="manual" occluded="0" xtl="230.22" ytl="248.92" xbr="338.13" ybr="359.71" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="0-02-V2-B.png" width="600" height="600">
+    <box label="0" source="manual" occluded="0" xtl="244.60" ytl="258.27" xbr="343.89" ybr="366.19" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="0-02-V2-W.png" width="600" height="600">
+    <box label="0" source="manual" occluded="0" xtl="251.08" ytl="256.12" xbr="353.96" ybr="366.91" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="0-03-V1-B.png" width="600" height="600">
+    <box label="0" source="manual" occluded="0" xtl="242.45" ytl="252.52" xbr="343.89" ybr="357.55" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="0-03-V1-W.png" width="600" height="600">
+    <box label="0" source="manual" occluded="0" xtl="234.53" ytl="246.76" xbr="370.50" ybr="369.07" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="0-03-V2-B.png" width="600" height="600">
+    <box label="0" source="manual" occluded="0" xtl="232.37" ytl="251.80" xbr="339.57" ybr="355.40" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="0-03-V2-W.png" width="600" height="600">
+    <box label="0" source="manual" occluded="0" xtl="220.14" ytl="255.40" xbr="342.45" ybr="371.94" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="0-04-V1-B.png" width="600" height="600">
+    <box label="0" source="manual" occluded="0" xtl="223.74" ytl="250.36" xbr="346.76" ybr="371.22" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="0-04-V1-W.png" width="600" height="600">
+    <box label="0" source="manual" occluded="0" xtl="244.60" ytl="241.01" xbr="364.75" ybr="368.35" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="0-04-V2-B.png" width="600" height="600">
+    <box label="0" source="manual" occluded="0" xtl="235.25" ytl="246.76" xbr="358.99" ybr="370.50" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="0-04-V2-W.png" width="600" height="600">
+    <box label="0" source="manual" occluded="0" xtl="236.69" ytl="234.53" xbr="359.71" ybr="362.59" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="0-05-V1-B.png" width="600" height="600">
+    <box label="0" source="manual" occluded="0" xtl="244.60" ytl="239.57" xbr="362.59" ybr="369.07" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="0-05-V1-W.png" width="600" height="600">
+    <box label="0" source="manual" occluded="0" xtl="231.66" ytl="239.57" xbr="374.10" ybr="374.10" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="0-05-V2-B.png" width="600" height="600">
+    <box label="0" source="manual" occluded="0" xtl="244.60" ytl="248.20" xbr="358.27" ybr="371.22" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="0-05-V2-W.png" width="600" height="600">
+    <box label="0" source="manual" occluded="0" xtl="238.85" ytl="255.40" xbr="351.08" ybr="369.78" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="1-01-V1-B.png" width="600" height="600">
+    <box label="1" source="manual" occluded="0" xtl="241.01" ytl="257.55" xbr="330.22" ybr="352.52" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="1-01-V1-W.png" width="600" height="600">
+    <box label="1" source="manual" occluded="0" xtl="227.34" ytl="256.84" xbr="338.13" ybr="363.31" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="1-01-V2-B.png" width="600" height="600">
+    <box label="1" source="manual" occluded="0" xtl="238.85" ytl="255.40" xbr="335.97" ybr="369.78" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="1-01-V2-W.png" width="600" height="600">
+    <box label="1" source="manual" occluded="0" xtl="239.57" ytl="248.92" xbr="346.04" ybr="360.43" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="1-02-V1-B.png" width="600" height="600">
+    <box label="1" source="manual" occluded="0" xtl="249.64" ytl="249.64" xbr="352.52" ybr="351.08" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="1-02-V1-W.png" width="600" height="600">
+    <box label="1" source="manual" occluded="0" xtl="247.48" ytl="248.92" xbr="353.96" ybr="358.99" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="1-02-V2-B.png" width="600" height="600">
+    <box label="1" source="manual" occluded="0" xtl="230.94" ytl="252.52" xbr="329.50" ybr="351.08" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="1-02-V2-W.png" width="600" height="600">
+    <box label="1" source="manual" occluded="0" xtl="248.92" ytl="257.55" xbr="346.04" ybr="354.68" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="1-03-V1-B.png" width="600" height="600">
+    <box label="1" source="manual" occluded="0" xtl="245.32" ytl="247.48" xbr="344.60" ybr="352.52" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="1-03-V1-W.png" width="600" height="600">
+    <box label="1" source="manual" occluded="0" xtl="244.60" ytl="249.64" xbr="358.99" ybr="366.19" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="1-03-V2-B.png" width="600" height="600">
+    <box label="1" source="manual" occluded="0" xtl="226.62" ytl="256.84" xbr="355.40" ybr="366.19" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="1-03-V2-W.png" width="600" height="600">
+    <box label="1" source="manual" occluded="0" xtl="242.45" ytl="243.89" xbr="371.22" ybr="360.43" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="1-04-V1-B.png" width="600" height="600">
+    <box label="1" source="manual" occluded="0" xtl="217.99" ytl="253.96" xbr="317.99" ybr="361.15" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="1-04-V1-W.png" width="600" height="600">
+    <box label="1" source="manual" occluded="0" xtl="221.58" ytl="251.08" xbr="342.45" ybr="375.54" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="1-04-V2-B.png" width="600" height="600">
+    <box label="1" source="manual" occluded="0" xtl="225.90" ytl="273.38" xbr="350.36" ybr="388.49" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="1-04-V2-W.png" width="600" height="600">
+    <box label="1" source="manual" occluded="0" xtl="225.18" ytl="249.64" xbr="372.66" ybr="374.82" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="1-05-V1-B.png" width="600" height="600">
+    <box label="1" source="manual" occluded="0" xtl="238.85" ytl="256.84" xbr="354.68" ybr="362.59" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="1-05-V1-W.png" width="600" height="600">
+    <box label="1" source="manual" occluded="0" xtl="228.80" ytl="276.98" xbr="344.60" ybr="384.89" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="1-05-V2-B.png" width="600" height="600">
+    <box label="1" source="manual" occluded="0" xtl="241.73" ytl="259.71" xbr="361.87" ybr="369.07" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="1-05-V2-W.png" width="600" height="600">
+    <box label="1" source="manual" occluded="0" xtl="235.25" ytl="259.71" xbr="353.24" ybr="369.78" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="2-01-V1-B.png" width="600" height="600">
+    <box label="2" source="manual" occluded="0" xtl="222.30" ytl="213.67" xbr="386.33" ybr="377.70" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="2-01-V1-W.png" width="600" height="600">
+    <box label="2" source="manual" occluded="0" xtl="230.22" ytl="233.81" xbr="386.33" ybr="390.65" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="2-01-V2-B.png" width="600" height="600">
+    <box label="2" source="manual" occluded="0" xtl="237.41" ytl="219.43" xbr="393.53" ybr="384.89" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="2-01-V2-W.png" width="600" height="600">
+    <box label="2" source="manual" occluded="0" xtl="210.07" ytl="235.97" xbr="360.43" ybr="394.96" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="2-02-V1-B.png" width="600" height="600">
+    <box label="2" source="manual" occluded="0" xtl="239.57" ytl="246.04" xbr="373.38" ybr="380.58" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="2-02-V1-W.png" width="600" height="600">
+    <box label="2" source="manual" occluded="0" xtl="221.58" ytl="235.97" xbr="361.15" ybr="379.86" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="2-02-V2-B.png" width="600" height="600">
+    <box label="2" source="manual" occluded="0" xtl="248.20" ytl="255.40" xbr="374.10" ybr="383.45" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="2-02-V2-W.png" width="600" height="600">
+    <box label="2" source="manual" occluded="0" xtl="224.46" ytl="242.45" xbr="363.31" ybr="376.98" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="2-03-V1-B.png" width="600" height="600">
+    <box label="2" source="manual" occluded="0" xtl="238.13" ytl="224.46" xbr="374.82" ybr="378.42" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="2-03-V1-W.png" width="600" height="600">
+    <box label="2" source="manual" occluded="0" xtl="221.58" ytl="240.29" xbr="354.68" ybr="374.10" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="2-03-V2-B.png" width="600" height="600">
+    <box label="2" source="manual" occluded="0" xtl="222.30" ytl="217.27" xbr="364.75" ybr="387.77" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="2-03-V2-W.png" width="600" height="600">
+    <box label="2" source="manual" occluded="0" xtl="218.71" ytl="207.91" xbr="391.37" ybr="379.14" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="2-04-V1-B.png" width="600" height="600">
+    <box label="2" source="manual" occluded="0" xtl="232.37" ytl="235.25" xbr="378.42" ybr="374.82" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="2-04-V1-W.png" width="600" height="600">
+    <box label="2" source="manual" occluded="0" xtl="227.34" ytl="228.06" xbr="381.30" ybr="378.42" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="2-04-V2-B.png" width="600" height="600">
+    <box label="2" source="manual" occluded="0" xtl="212.23" ytl="236.69" xbr="355.40" ybr="380.58" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="2-04-V2-W.png" width="600" height="600">
+    <box label="2" source="manual" occluded="0" xtl="237.41" ytl="236.69" xbr="383.45" ybr="389.21" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="2-05-V1-B.png" width="600" height="600">
+    <box label="2" source="manual" occluded="0" xtl="201.44" ytl="212.95" xbr="380.58" ybr="394.25" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="2-05-V1-W.png" width="600" height="600">
+    <box label="2" source="manual" occluded="0" xtl="226.62" ytl="233.09" xbr="379.86" ybr="379.86" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="2-05-V2-B.png" width="600" height="600">
+    <box label="2" source="manual" occluded="0" xtl="225.18" ytl="226.62" xbr="403.60" ybr="401.44" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="2-05-V2-W.png" width="600" height="600">
+    <box label="2" source="manual" occluded="0" xtl="222.30" ytl="230.94" xbr="383.45" ybr="382.73" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="3-01-V1-B.png" width="600" height="600">
+    <box label="3" source="manual" occluded="0" xtl="229.50" ytl="229.50" xbr="370.50" ybr="371.90" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="3-01-V1-W.png" width="600" height="600">
+    <box label="3" source="manual" occluded="0" xtl="221.58" ytl="228.78" xbr="370.50" ybr="379.86" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="3-01-V2-B.png" width="600" height="600">
+    <box label="3" source="manual" occluded="0" xtl="241.01" ytl="243.17" xbr="389.93" ybr="383.45" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="3-01-V2-W.png" width="600" height="600">
+    <box label="3" source="manual" occluded="0" xtl="222.30" ytl="219.42" xbr="389.93" ybr="386.30" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="3-02-V1-B.png" width="600" height="600">
+    <box label="3" source="manual" occluded="0" xtl="224.17" ytl="206.91" xbr="389.64" ybr="389.64" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="3-02-V1-W.png" width="600" height="600">
+    <box label="3" source="manual" occluded="0" xtl="203.60" ytl="222.30" xbr="384.89" ybr="408.63" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="3-02-V2-B.png" width="600" height="600">
+    <box label="3" source="manual" occluded="0" xtl="203.60" ytl="223.74" xbr="384.89" ybr="403.60" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="3-02-V2-W.png" width="600" height="600">
+    <box label="3" source="manual" occluded="0" xtl="202.88" ytl="225.18" xbr="371.22" ybr="387.77" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="3-03-V1-B.png" width="600" height="600">
+    <box label="3" source="manual" occluded="0" xtl="217.70" ytl="207.63" xbr="383.89" ybr="386.76" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="3-03-V1-W.png" width="600" height="600">
+    <box label="3" source="manual" occluded="0" xtl="200.00" ytl="202.16" xbr="383.45" ybr="392.81" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="3-03-V2-B.png" width="600" height="600">
+    <box label="3" source="manual" occluded="0" xtl="200.72" ytl="215.11" xbr="390.65" ybr="400.72" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="3-03-V2-W.png" width="600" height="600">
+    <box label="3" source="manual" occluded="0" xtl="195.68" ytl="212.23" xbr="377.70" ybr="390.65" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="3-04-V1-B.png" width="600" height="600">
+    <box label="3" source="manual" occluded="0" xtl="202.90" ytl="214.39" xbr="387.05" ybr="396.40" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="3-04-V1-W.png" width="600" height="600">
+    <box label="3" source="manual" occluded="0" xtl="217.27" ytl="217.99" xbr="380.58" ybr="397.12" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="3-04-V2-B.png" width="600" height="600">
+    <box label="3" source="manual" occluded="0" xtl="219.43" ytl="217.27" xbr="382.01" ybr="383.45" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="3-04-V2-W.png" width="600" height="600">
+    <box label="3" source="manual" occluded="0" xtl="227.34" ytl="225.90" xbr="391.37" ybr="386.33" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="3-05-V1-B.png" width="600" height="600">
+    <box label="3" source="manual" occluded="0" xtl="217.27" ytl="219.43" xbr="374.82" ybr="379.14" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="3-05-V1-W.png" width="600" height="600">
+    <box label="3" source="manual" occluded="0" xtl="239.57" ytl="217.27" xbr="386.33" ybr="379.86" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="3-05-V2-B.png" width="600" height="600">
+    <box label="3" source="manual" occluded="0" xtl="229.50" ytl="222.30" xbr="375.54" ybr="384.89" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="3-05-V2-W.png" width="600" height="600">
+    <box label="3" source="manual" occluded="0" xtl="219.43" ytl="228.06" xbr="392.09" ybr="399.28" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="4-01-V1-B.png" width="600" height="600">
+    <box label="4" source="manual" occluded="0" xtl="185.61" ytl="256.84" xbr="433.81" ybr="369.78" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="4-01-V1-W.png" width="600" height="600">
+    <box label="4" source="manual" occluded="0" xtl="155.40" ytl="248.20" xbr="412.95" ybr="358.99" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="4-01-V2-B.png" width="600" height="600">
+    <box label="4" source="manual" occluded="0" xtl="236.69" ytl="174.10" xbr="362.59" ybr="423.74" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="4-01-V2-W.png" width="600" height="600">
+    <box label="4" source="manual" occluded="0" xtl="256.84" ytl="172.66" xbr="365.47" ybr="429.50" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="4-02-V1-B.png" width="600" height="600">
+    <box label="4" source="manual" occluded="0" xtl="161.87" ytl="258.27" xbr="417.27" ybr="358.27" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="4-02-V1-W.png" width="600" height="600">
+    <box label="4" source="manual" occluded="0" xtl="160.43" ytl="266.91" xbr="442.45" ybr="366.91" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="4-02-V2-B.png" width="600" height="600">
+    <box label="4" source="manual" occluded="0" xtl="242.45" ytl="193.53" xbr="356.12" ybr="434.53" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="4-02-V2-W.png" width="600" height="600">
+    <box label="4" source="manual" occluded="0" xtl="238.85" ytl="156.84" xbr="337.41" ybr="438.85" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="4-03-V1-B.png" width="600" height="600">
+    <box label="4" source="manual" occluded="0" xtl="172.66" ytl="257.55" xbr="410.79" ybr="358.99" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="4-03-V1-W.png" width="600" height="600">
+    <box label="4" source="manual" occluded="0" xtl="184.89" ytl="256.12" xbr="423.02" ybr="351.08" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="4-03-V2-B.png" width="600" height="600">
+    <box label="4" source="manual" occluded="0" xtl="243.89" ytl="186.30" xbr="345.32" ybr="435.25" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="4-03-V2-W.png" width="600" height="600">
+    <box label="4" source="manual" occluded="0" xtl="239.57" ytl="175.54" xbr="343.17" ybr="427.34" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="4-04-V1-B.png" width="600" height="600">
+    <box label="4" source="manual" occluded="0" xtl="176.26" ytl="260.43" xbr="407.91" ybr="343.89" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="4-04-V1-W.png" width="600" height="600">
+    <box label="4" source="manual" occluded="0" xtl="175.54" ytl="263.31" xbr="417.99" ybr="344.60" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="4-04-V2-B.png" width="600" height="600">
+    <box label="4" source="manual" occluded="0" xtl="235.97" ytl="188.49" xbr="320.14" ybr="430.22" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="4-04-V2-W.png" width="600" height="600">
+    <box label="4" source="manual" occluded="0" xtl="244.60" ytl="179.86" xbr="343.17" ybr="431.66" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="4-05-V1-B.png" width="600" height="600">
+    <box label="4" source="manual" occluded="0" xtl="191.37" ytl="265.47" xbr="414.39" ybr="362.59" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="4-05-V1-W.png" width="600" height="600">
+    <box label="4" source="manual" occluded="0" xtl="171.94" ytl="251.80" xbr="440.29" ybr="358.99" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="4-05-V2-B.png" width="600" height="600">
+    <box label="4" source="manual" occluded="0" xtl="232.37" ytl="171.94" xbr="333.81" ybr="422.30" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="4-05-V2-W.png" width="600" height="600">
+    <box label="4" source="manual" occluded="0" xtl="244.60" ytl="148.20" xbr="351.08" ybr="442.45" z_order="0">
+    </box>
+  </image>
+</annotations>
